@@ -1,0 +1,16 @@
+C:\Users\h\OneDrive - National University of Sciences & Technology\Desktop\Csharp-tutorial\Csharp-tutorials\second-tutorial\bussinessRules\bin\Debug\net5.0\bussinessRules.exe
+C:\Users\h\OneDrive - National University of Sciences & Technology\Desktop\Csharp-tutorial\Csharp-tutorials\second-tutorial\bussinessRules\bin\Debug\net5.0\bussinessRules.deps.json
+C:\Users\h\OneDrive - National University of Sciences & Technology\Desktop\Csharp-tutorial\Csharp-tutorials\second-tutorial\bussinessRules\bin\Debug\net5.0\bussinessRules.runtimeconfig.json
+C:\Users\h\OneDrive - National University of Sciences & Technology\Desktop\Csharp-tutorial\Csharp-tutorials\second-tutorial\bussinessRules\bin\Debug\net5.0\bussinessRules.runtimeconfig.dev.json
+C:\Users\h\OneDrive - National University of Sciences & Technology\Desktop\Csharp-tutorial\Csharp-tutorials\second-tutorial\bussinessRules\bin\Debug\net5.0\bussinessRules.dll
+C:\Users\h\OneDrive - National University of Sciences & Technology\Desktop\Csharp-tutorial\Csharp-tutorials\second-tutorial\bussinessRules\bin\Debug\net5.0\ref\bussinessRules.dll
+C:\Users\h\OneDrive - National University of Sciences & Technology\Desktop\Csharp-tutorial\Csharp-tutorials\second-tutorial\bussinessRules\bin\Debug\net5.0\bussinessRules.pdb
+C:\Users\h\OneDrive - National University of Sciences & Technology\Desktop\Csharp-tutorial\Csharp-tutorials\second-tutorial\bussinessRules\obj\Debug\net5.0\bussinessRules.csproj.AssemblyReference.cache
+C:\Users\h\OneDrive - National University of Sciences & Technology\Desktop\Csharp-tutorial\Csharp-tutorials\second-tutorial\bussinessRules\obj\Debug\net5.0\bussinessRules.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h\OneDrive - National University of Sciences & Technology\Desktop\Csharp-tutorial\Csharp-tutorials\second-tutorial\bussinessRules\obj\Debug\net5.0\bussinessRules.AssemblyInfoInputs.cache
+C:\Users\h\OneDrive - National University of Sciences & Technology\Desktop\Csharp-tutorial\Csharp-tutorials\second-tutorial\bussinessRules\obj\Debug\net5.0\bussinessRules.AssemblyInfo.cs
+C:\Users\h\OneDrive - National University of Sciences & Technology\Desktop\Csharp-tutorial\Csharp-tutorials\second-tutorial\bussinessRules\obj\Debug\net5.0\bussinessRules.csproj.CoreCompileInputs.cache
+C:\Users\h\OneDrive - National University of Sciences & Technology\Desktop\Csharp-tutorial\Csharp-tutorials\second-tutorial\bussinessRules\obj\Debug\net5.0\bussinessRules.dll
+C:\Users\h\OneDrive - National University of Sciences & Technology\Desktop\Csharp-tutorial\Csharp-tutorials\second-tutorial\bussinessRules\obj\Debug\net5.0\ref\bussinessRules.dll
+C:\Users\h\OneDrive - National University of Sciences & Technology\Desktop\Csharp-tutorial\Csharp-tutorials\second-tutorial\bussinessRules\obj\Debug\net5.0\bussinessRules.pdb
+C:\Users\h\OneDrive - National University of Sciences & Technology\Desktop\Csharp-tutorial\Csharp-tutorials\second-tutorial\bussinessRules\obj\Debug\net5.0\bussinessRules.genruntimeconfig.cache
